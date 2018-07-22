@@ -15,14 +15,14 @@ class Matrix():
 
     def add(self, m):
         """return a new Matrix object after summation"""
-        
+        print("========== A + B ==========")
     def sub(self, m):
         """return a new Matrix object after substraction"""
-        pass
+        print("========== A - B ==========")
 
     def mul(self, m):
         """return a new Matrix object after multiplication"""
-        pass
+        print("========== A * B ==========")
 
     def transpose(self):
         """return a new Matrix object after transpose"""
